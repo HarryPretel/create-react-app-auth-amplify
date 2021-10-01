@@ -1,0 +1,3 @@
+ideas:
+
+create a sidebar component that runs unit tests for debugging purposes

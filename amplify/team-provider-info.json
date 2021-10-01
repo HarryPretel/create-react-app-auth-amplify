@@ -1,0 +1,20 @@
+{
+  "darsey": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-authcra-darsey-01701-authRole",
+      "UnauthRoleArn": "arn:aws:iam::471644714298:role/amplify-authcra-darsey-01701-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::471644714298:role/amplify-authcra-darsey-01701-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-authcra-darsey-01701-deployment",
+      "UnauthRoleName": "amplify-authcra-darsey-01701-unauthRole",
+      "StackName": "amplify-authcra-darsey-01701",
+      "StackId": "arn:aws:cloudformation:us-east-2:471644714298:stack/amplify-authcra-darsey-01701/e64d3080-224c-11ec-97f3-0aea3ecf8b06",
+      "AmplifyAppId": "dslv2au631t7b"
+    },
+    "categories": {
+      "auth": {
+        "cognitocf0c6096": {}
+      }
+    }
+  }
+}

@@ -4,12 +4,14 @@ import './App.css';
 import { withAuthenticator, AmplifySignOut } from '@aws-amplify/ui-react'
 import Amplify from 'aws-amplify';
 import aws_exports from './aws-exports';
+import GreenThumb from './GreenThumb.js'
 Amplify.configure(aws_exports);
 
 class App extends Component {
   render() {
     return (
       <div className="App">
+        <GreenThumb/>
         <AmplifySignOut />
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
